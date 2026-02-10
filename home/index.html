@@ -40,19 +40,15 @@
         Goals In Life / Dream: To be rich, not only in money but in health too. <br>
         </ul>
     </div>
-    
+
     <div id="app">
         {{ message }}
     </div>
 
     <div id="app2">
-
         <div>
-            <div>
-                <img v-for="x in manyFoods" v-bind:src="x">
-            </div>
+            <img v-for="x in manyFoods" v-bind:src="x">
         </div>
-
     </div>
 
 <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
