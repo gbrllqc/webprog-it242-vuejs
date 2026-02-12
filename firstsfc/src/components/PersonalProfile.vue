@@ -31,11 +31,12 @@
       </div>
 
       <div class="main-image">
-        <strong>Picture Gallery:</strong><br>
+        <p><strong>Featured Image:</strong></p>
         <img src="https://wallpapers.com/images/featured-full/winnie-the-pooh-classic-1egcaz3zkdiirn2q.jpg" alt="pooh" class="featured-img">
       </div>
     </section>
 
+    <h3 style="text-align: center;">Character Gallery</h3>
     <div class="container gallery">
       <div class="gallery-item">
         <img src="https://i.pinimg.com/1200x/4a/07/87/4a07872c8029795ed887b5d9694c6001.jpg" alt="piglet">
