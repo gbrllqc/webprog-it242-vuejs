@@ -15,33 +15,33 @@
   </div>
 </nav>
 
-<div class="container mt-5 mb-5">
-  <div class="row align-items-center g-5">
-    
-    <div class="col-lg-6">
-      <div id="profileCarousel" class="carousel slide shadow-lg profile-carousel themed-img overflow-hidden" data-bs-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="@/firstsfc/components/css/images/me1.jpg" class="d-block w-100" alt="Gabrielle Profile 1">
-          </div>
-          <div class="carousel-item">
-            <img src="@/firstsfc/src/components/css/me2.jpg" class="d-block w-100" alt="Gabrielle Profile 2">
-          </div>
-          <div class="carousel-item">
-            <img src="@/firstsfc/src/components/css/me3.jpg" class="d-block w-100" alt="Gabrielle Profile 3">
-          </div>
-          <div class="carousel-item">
-            <img src="@/firstsfc/src/components/css/images/me4.jpg" class="d-block w-100" alt="Gabrielle Profile 4">
-          </div>
+<template>
+  <div class="col-lg-6">
+    <div id="profileCarousel" class="carousel slide shadow-lg profile-carousel themed-img overflow-hidden" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="./css/images/me1.jpg" class="d-block w-100" alt="Gabrielle Profile 1">
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#profileCarousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon"></span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#profileCarousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon"></span>
-        </button>
+        <div class="carousel-item">
+          <img src="./css/images/me2.jpg" class="d-block w-100" alt="Gabrielle Profile 2">
+        </div>
+        <div class="carousel-item">
+          <img src="./css/images/me3.jpg" class="d-block w-100" alt="Gabrielle Profile 3">
+        </div>
+        <div class="carousel-item">
+          <img src="./css/images/me4.jpg" class="d-block w-100" alt="Gabrielle Profile 4">
+        </div>
       </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#profileCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#profileCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+      </button>
     </div>
+  </div>
+</template>
+``
 
     <div class="col-lg-6">
       <div class="content-card intro-section">
