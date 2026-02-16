@@ -61,4 +61,4 @@
 </template>
 
 <script></script>
-<style src="./css/personalprofile.css"></style>
+<style src="./css/PersonalProfile.css"></style>
