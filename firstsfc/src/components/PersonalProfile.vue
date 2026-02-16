@@ -22,16 +22,16 @@
       <div id="profileCarousel" class="carousel slide shadow-lg profile-carousel themed-img overflow-hidden" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="me1.jpg" class="d-block w-100" alt="Gabrielle Profile 1">
+            <img src="assets\images\me1.jpg" class="d-block w-100" alt="Gabrielle Profile 1">
           </div>
           <div class="carousel-item">
-            <img src="me2.jpg" class="d-block w-100" alt="Gabrielle Profile 2">
+            <img src="assets\images\me2.jpg" class="d-block w-100" alt="Gabrielle Profile 2">
           </div>
           <div class="carousel-item">
-            <img src="me3.jpg" class="d-block w-100" alt="Gabrielle Profile 3">
+            <img src="assets\images\me3.jpg" class="d-block w-100" alt="Gabrielle Profile 3">
           </div>
           <div class="carousel-item">
-            <img src="me4.jpg" class="d-block w-100" alt="Gabrielle Profile 4">
+            <img src="assets\images\me4.jpg" class="d-block w-100" alt="Gabrielle Profile 4">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#profileCarousel" data-bs-slide="prev">
