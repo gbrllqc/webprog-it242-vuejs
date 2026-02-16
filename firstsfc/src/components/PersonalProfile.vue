@@ -25,13 +25,13 @@
             <img src="@/firstsfc/components/css/images/me1.jpg" class="d-block w-100" alt="Gabrielle Profile 1">
           </div>
           <div class="carousel-item">
-            <img src="@/firstsfc/components/css/me2.jpg" class="d-block w-100" alt="Gabrielle Profile 2">
+            <img src="@/firstsfc/src/components/css/me2.jpg" class="d-block w-100" alt="Gabrielle Profile 2">
           </div>
           <div class="carousel-item">
-            <img src="@/firstsfc/components/css/me3.jpg" class="d-block w-100" alt="Gabrielle Profile 3">
+            <img src="@/firstsfc/src/components/css/me3.jpg" class="d-block w-100" alt="Gabrielle Profile 3">
           </div>
           <div class="carousel-item">
-            <img src="@/firstsfc/components/css/images/me4.jpg" class="d-block w-100" alt="Gabrielle Profile 4">
+            <img src="@/firstsfc/src/components/css/images/me4.jpg" class="d-block w-100" alt="Gabrielle Profile 4">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#profileCarousel" data-bs-slide="prev">
